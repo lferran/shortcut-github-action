@@ -1,3 +1,4 @@
-#!/bin/bash
+#!/bin/sh -l
 
-python src/main.py
+which python
+python3 src/main.py
