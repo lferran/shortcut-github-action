@@ -2,4 +2,4 @@
 
 pwd
 ls -la
-python3 main.py
+python3 /action/main.py
